@@ -1,32 +1,90 @@
-<h1 align="center">Hi 👋, I'm Asfak Shahrier</h1>
-<h3 align="center">Software Engineer @ Trickcel</h3>
+# Hi 👋, I'm Asfak Shahrier
 
-<img align="right" alt="Coding" width="400" src="https://scontent.fdac24-4.fna.fbcdn.net/v/t1.6435-9/132415997_2825618934353103_864594888089992092_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGfr1ctWcvoKk7WRP65eUQp5j7iAgAzBKXmPuICADMEpWys8gPJE8KPohoLpI7jwibW2PhH39KqjtwdoyCUZpuH&_nc_ohc=aO2UZkw7eh8AX-Urvb2&_nc_oc=AQmVGyj1wMuxbeDjlKOXaEav_TXIOC52o02GN5XJgXvyEYYQBo60HQbZi1r-rs80tGc&_nc_ht=scontent.fdac24-4.fna&oh=00_AfAKPwM7EScHQJoncrZbRBfH0xVFOar3WBSVzxGBIMhGAw&oe=63C822DF">
+### Full-Stack Developer | Competitive Programmer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asfak27&label=Profile%20views&color=0e75b6&style=flat" alt="asfak27" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asfak27" alt="asfak27" /></a> </p>
+## 🔬 Research
 
-- 🌱 I’m currently learning **DS_ALGO**
+- **"Understanding Link Sharing Practice in NPM Related Tweets by Package Maintainers Community"**  
+  *Communications in Software and Systems* — **In Press** ✅  
+  Supervised by Asst. Prof. Syful Islam, GSTU
 
-- 💬 Ask me about **CP**
+- **"Predicting CSE Undergraduate Students' Careers Using Machine Learning Algorithms in the Context of Bangladesh"**  
+  *IEEE Conference* — **Under Review** 🔄  
+  Supervised by Asst. Prof. Saleh Ahmed, GSTU  
+  → First multi-label career prediction framework for Bangladeshi CSE students | 468 students | 47 universities | XGBoost best (61.70%)
 
-- 📫 How to reach me **shahrierasfak27@gmail.com**
+---
 
-- ⚡ Fun fact **I think I am funny🤣🤣**
+## 🚀 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/asfak-shahrier-9b7b4523a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asfak-shahrier-9b7b4523a/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/shahrier.ashfak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shahrier.ashfak/" height="30" width="40" /></a>
-<a href="https://instagram.com/qpljy0mxgq7jt0pq4wfncmgcw57ge9a2nv0lkwv7mw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qpljy0mxgq7jt0pq4wfncmgcw57ge9a2nv0lkwv7mw" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/asfakcse027" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="asfakcse027" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/asfak_shahrier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asfak_shahrier" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/asfakshahrier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asfakshahrier" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@asfak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@asfak1" height="30" width="40" /></a>
-</p>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [CSE Career Prediction](https://github.com/asfakT/ml-data-analysis-collection) | Multi-label ML career prediction — Research Paper | Python, XGBoost, Scikit-learn |
+| [IELTS Daily Tracker](https://github.com/asfakT/IELTS_TRACKER_APP) | AI-powered writing review with OpenAI GPT + Gemini API | Django, Python, AI API |
+| [LMS](https://github.com/asfakT/lms-react-laravel) | Production Learning Management System | Laravel, MySQL |
+| [E-commerce](https://github.com/asfakT/laravel-ecommerce-system) | Production e-commerce platform at Trickcel | Angular, Tailwind, REST API |
+| [ML & Data Analysis Collection](https://github.com/asfakT/ml-data-analysis-collection) | 7 ML projects with Colab notebooks | Python, Scikit-learn, Pandas |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asfak27&" alt="asfak27" /></p>
+## 🏆 Competitive Programming
+
+**3,200+ problems solved across multiple platforms**
+
+| Platform | Rank | Rating | Profile |
+|----------|------|--------|---------|
+| Codeforces | Specialist (top 15% globally) | 1462 | [View](https://codeforces.com/profile/Asfak_Shahrier) |
+| LeetCode | Knight | 1820 | [View](https://leetcode.com/u/AsfakShahrier/) |
+| CodeChef | 4★ Coder | 1812 | [View](https://www.codechef.com/users/asfakcse027) |
+| AtCoder | — | 823 | [View](https://atcoder.jp/users/Asfak_Shahrier) |
+
+---
+
+## 🛠️ Tech Stack
+
+**ML / Data Science**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Web Development**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**AI Integration**  
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
+
+**Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+---
+
+## 🏅 Achievements
+
+- 🥇 Ranked **1st in Bangladesh** — June CodeChef Starters 2021 (Division 3)
+- 🥉 **3rd Place** — UGV South Zone Programming Contest (Team)
+- 4th Place — KU Programming Contest (Team)
+
+---
+
+## 📜 Certification
+
+- **Data Analysis with Python** — 80 hours  
+  Bangladesh Computer Council, ICT Division (EDGE Project) | [View Certificate](https://github.com/asfakT/Certifications/blob/main/Digital-Skill-Certify.pdf)
+
+---
+
+## 📫 Contact
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-asfakshahrier.com-blue?style=flat&logo=google-chrome)](https://asfakshahrier.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-asfak--shahrier-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/asfak-shahrier)
+[![Email](https://img.shields.io/badge/Email-shahrierasfak27@gmail.com-D14836?style=flat&logo=gmail)](mailto:shahrierasfak27@gmail.com)
